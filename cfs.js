@@ -1,4 +1,4 @@
-//password = "Password123BSCS"
+
 let name = "Quitasol, Kenlei A.";
 let address = "Quinabalayangan Sta. Lucia Ilocos Sur";
 let age = 20;
@@ -25,3 +25,4 @@ if (COURSE === "BSCS") {
 } else {
   console.log("Invalid course.");
 }
+//password = "Password123BSCS"
